@@ -3,7 +3,7 @@
 ---
 
 ### Individual Java, R, and Python Projects 
-#### Group projects are notated
+
 
 [Project 1 Charlotte's Neighborhood Crime Over Time - Crime Exploration](/sample_page)
 Crime is a concern for many urban areas in the United States, and Charlotte is no exception. It is important to understand crime patterns and statistics to help communities and law enforcement agencies develop plans, allocate resources, and engage with the community to improve public safety. The Charlotte-Mecklenburg Police Department (CMPD) regularly publishes detailed crime reports. As of July 22, 2024, overall crime in Charlotte has seen a slight increase of 1% compared to the previous year. This includes various types of crimes, categorized broadly into violent crimes and property crimes.  [CMPD Data Portal](https://data.charlottenc.gov/datasets/charlotte::cmpd-incidents-1/about)
@@ -18,7 +18,7 @@ Explored how crime has evolved over time in different communities and how does l
 Default of Credit Card Clients data set is available from UC Irvine Machine Learning Repository. It is based on research paper written by Che-hui Lien Yeh in 2009 which examined default patterns of Taiwanese customers. The research compared the predictive accuracy of six data mining techniques. For their initial research, neutral network more accurately estimated the real probability of default.
 
 For this classification project, used various classification models to predict if an individual would default on their next month's payment or not.
-<img src="images/default.png?alt="Description" width="300" height="200" />
+<img src="images/default.png" alt="Description" width="300" height="200" />
 
 ---
 [Project 3 Wave Farm - Regression](http://example.com/)
