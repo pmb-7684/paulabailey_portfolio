@@ -9,7 +9,8 @@
 Crime is a concern for many urban areas in the United States, and Charlotte is no exception. It is important to understand crime patterns and statistics to help communities and law enforcement agencies develop plans, allocate resources, and engage with the community to improve public safety. The Charlotte-Mecklenburg Police Department (CMPD) regularly publishes detailed crime reports. As of July 22, 2024, overall crime in Charlotte has seen a slight increase of 1% compared to the previous year. This includes various types of crimes, categorized broadly into violent crimes and property crimes.  [CMPD Data Portal](https://data.charlottenc.gov/datasets/charlotte::cmpd-incidents-1/about)
 
 Explored how crime has evolved over time in different communities and how does location (such as open field, department store, hotel/motel, etc.) of the incident within neighborhoods effective crime? By determining communitites that are experiencing higher than normal levels of crime and specific location, the city, local law enforcement, and community can help allocated resources, develop plans and support community outreach to support all neighborhoods.
-<img src="images/CrimeOverTime.png" alt="Description" width="300" height="200" />
+
+<img src="images/CrimeOverTime.png" alt="Description" width="300" height="250" />
 
 
 ---
@@ -17,16 +18,17 @@ Explored how crime has evolved over time in different communities and how does l
 Default of Credit Card Clients data set is available from UC Irvine Machine Learning Repository. It is based on research paper written by Che-hui Lien Yeh in 2009 which examined default patterns of Taiwanese customers. The research compared the predictive accuracy of six data mining techniques. For their initial research, neutral network more accurately estimated the real probability of default.
 
 For this classification project, used various classification models to predict if an individual would default on their next month's payment or not.
-<img src="images/default.png?raw=true"/>
+<img src="images/default.png?alt="Description" width="300" height="200" />
 
 ---
 [Project 3 Wave Farm - Regression](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 1 - New York City Leading Causes of Death: Project Overview](https://github.com/pmb-7684/Python-Projects/blob/main/NYC_LeadingCauses.ipynb)
+Java Project
 
-A project focused on exploratory analysis. The data set comes from New York City’s [NYCOpenData](https://opendata.cityofnewyork.us/) and contains information on the cause of death from 2007.  Focused on men in NYC and their cause of death.  The project is also completed in R analyzing causes of death for women. New_York_City_leading_Causes_of_Death data set contained 1,272 observations and 7 variables. Each observation represents a cause of death. Determined the number one cause of death for men in NYC was heart disease.  The second highest cause of death was Cancer for most years.
+
+
 
 ---
 [The Right Conditions for COVID-19 2020](http://example.com/)
@@ -53,7 +55,7 @@ Explored the effects of COVID-19 on the crime rate in Chicago, Illinois so far i
 * Acquired data from [data.gov](https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=Illinois&data-type=CommunityLevels&list_select_county=17031) for the COVID cases in Chicago. Note: link to the original website is no longer active.  The web site above from the CDC provides similar information.
 * Acquired geospatial data from the [portal](https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Districts-current-/fthy-xz3r) as well.
 
-<img src="images/primaryTypeDIff.png?raw=true"/>
+<img src="images/primaryTypeDIff.png" alt="Description" width="300" height="250"/>
 
 ---
 [Project 5 - Crime in Chicago and Being Arrested: Project Overview](https://github.com/pmb-7684/BAN-502-Predictive-Analytics/blob/master/Course%20Project%20Phase2.pdf)
