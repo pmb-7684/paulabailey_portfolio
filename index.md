@@ -25,7 +25,7 @@ For this classification project, used various classification models to predict i
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-Java Project
+[Java Project](http://example.com/)
 
 
 
