@@ -2,21 +2,20 @@
 
 ---
 
-### Category Name 1 
+### Individual Projects unless notated
 
-[Project 1 Charlotte Mecklenburg Police Department - Crime Exploration](/sample_page)
-Crime is a concern for many urban areas in the United States, and Charlotte is no exception. It is important to understand crime patterns and statistics to help communities and law enforcement agencies develop plans, allocate resources, and engage with the community to improve public safety. The Charlotte-Mecklenburg Police Department (CMPD) regularly publishes detailed crime reports. As of July 22, 2024, overall crime in Charlotte has seen a slight increase of 1% compared to the previous year. This includes various types of crimes, categorized broadly into violent crimes and property crimes.
+[Project 1 Charlotte's Neighborhood Crime Over Time - Crime Exploration](/sample_page)
+Crime is a concern for many urban areas in the United States, and Charlotte is no exception. It is important to understand crime patterns and statistics to help communities and law enforcement agencies develop plans, allocate resources, and engage with the community to improve public safety. The Charlotte-Mecklenburg Police Department (CMPD) regularly publishes detailed crime reports. As of July 22, 2024, overall crime in Charlotte has seen a slight increase of 1% compared to the previous year. This includes various types of crimes, categorized broadly into violent crimes and property crimes.  [CMPD Data Portal](https://data.charlottenc.gov/datasets/charlotte::cmpd-incidents-1/about)
 
-For this project, I plan to explore how crime has evolved over time in different communities and how does location (such as open field, department store, hotel/motel, etc.) of the incident within neighborhoods effective crime? To answer this question, I will use the CMPD_PATROL_DIVISION and the PLACE_DETAIL-DESCRIPTION columns to examine these trends over time. By determining communitites that are experiencing higher than normal levels of crime and specific location, the city, local law enforcement, and community can help allocated resources, develop plans and support community outreach to support all neighborhoods.
-
-[CMPD Data Portal](https://data.charlottenc.gov/datasets/charlotte::cmpd-incidents-1/about)
+Explored how crime has evolved over time in different communities and how does location (such as open field, department store, hotel/motel, etc.) of the incident within neighborhoods effective crime? By determining communitites that are experiencing higher than normal levels of crime and specific location, the city, local law enforcement, and community can help allocated resources, develop plans and support community outreach to support all neighborhoods.
+<img src="images/CrimeOverTime.png?raw=true"/>
 
 ---
 [Project 2 Default of Credit Card Clients - Classification](/pdf/sample_presentation.pdf)
-The dataset, Default of Credit Card Clients is available from UC Irvine Machine Learning Repository. It is based on research paper written by Che-hui Lien Yeh in 2009 which examined default patterns of Taiwanese customers. The research compared the predictive accuracy of six data mining techniques. For their initial research, neutral network more accurately estimated the real probability of default.
+Default of Credit Card Clients data set is available from UC Irvine Machine Learning Repository. It is based on research paper written by Che-hui Lien Yeh in 2009 which examined default patterns of Taiwanese customers. The research compared the predictive accuracy of six data mining techniques. For their initial research, neutral network more accurately estimated the real probability of default.
 
-For this classification project, I will be using classification models to predict if an individual will default on their next month's payment or not.
-
+For this classification project, used various classification models to predict if an individual would default on their next month's payment or not.
+<img src="images/default.png?raw=true"/>
 
 ---
 [Project 3 Wave Farm - Regression](http://example.com/)
@@ -38,9 +37,9 @@ Project focused on sixteen different universal conditions that could contribute 
 <img src="images/StngencyIndex.png?raw=true"/>
 
 ---
-[Pokemon API 2022](https://pmb-7684.github.io/ST558_Project_2/)
+[Pokémon API 2022](https://pmb-7684.github.io/ST558_Project_2/)
 
-**Pokémon API Vignette** is a project on resting APIs at [Poké Api.](https://pokeapi.co/) The vignette helps users on how to request information on their favorite Pokémon by name or ID from a resting API.  The information includes basic stats, training information, and moves.  There is an additional option to request information about berries.  Completed exploratory analysis with visualizations using data extracted from the api.
+A project that used resting APIs at [Poké Api.](https://pokeapi.co/) The vignette helps users on how to request information on their favorite Pokémon by name or ID from a resting API.  The information includes basic stats, training information, and moves.  There is an additional option to request information about berries.  Completed exploratory analysis with visualizations using data extracted from the api.
 
 ---
 [Project 4 - COVID-19 Effects on Crime in Chicago: Project Overview](https://github.com/pmb-7684/MIS-505-Data-Visualization/blob/main/Chicago-%20Final%20Project%2008.16.2020%20PMBailey.pdf)
