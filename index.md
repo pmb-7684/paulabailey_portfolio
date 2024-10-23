@@ -9,7 +9,7 @@
 Crime is a concern for many urban areas in the United States, and Charlotte is no exception. It is important to understand crime patterns and statistics to help communities and law enforcement agencies develop plans, allocate resources, and engage with the community to improve public safety. The Charlotte-Mecklenburg Police Department (CMPD) regularly publishes detailed crime reports. As of July 22, 2024, overall crime in Charlotte has seen a slight increase of 1% compared to the previous year. This includes various types of crimes, categorized broadly into violent crimes and property crimes.  [CMPD Data Portal](https://data.charlottenc.gov/datasets/charlotte::cmpd-incidents-1/about)
 
 Explored how crime has evolved over time in different communities and how does location (such as open field, department store, hotel/motel, etc.) of the incident within neighborhoods effective crime? By determining communitites that are experiencing higher than normal levels of crime and specific location, the city, local law enforcement, and community can help allocated resources, develop plans and support community outreach to support all neighborhoods.
-<img src="images/CrimeOverTimepng" alt="Description" width="300" height="200" />
+<img src="images/CrimeOverTime.png" alt="Description" width="300" height="200" />
 
 
 ---
