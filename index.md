@@ -29,7 +29,7 @@ A promising renewable energy resource is the use of wave farms to create energy.
 
 
 ---
-[The Right Conditions for COVID-19 - PDF](/pdf/BAN Week 6 - Final Report_pmbailey.pdf)
+[The Right Conditions for COVID-19 (PDF)](/pdf/BAN Week 6 - Final Report_pmbailey.pdf)
 
 Project focused on sixteen different universal conditions that could contribute to a person being infected with COVID-19.  The project completed in November 2020 as part of a capstone. World wide Coronavirus (COVID-19) data set which contained 50,350 observations and 41 variables. Used the programming language R to clean the data.
 
@@ -55,7 +55,7 @@ install.packages(c("shiny", "shinydashboard", "shinythemes", "data.table", "tidy
 <img src="images/XCharlotte-Skyline.jpg" alt="Description" width="300" height="250"/>
 
 ---
-[Project 4 - COVID-19 Effects on Crime in Chicago PDF](/pdf/Chicago- Final Project 08.16.2020 PMBailey.pdf)
+[Project 4 - COVID-19 Effects on Crime in Chicago (PDF)](/pdf/Chicago- Final Project 08.16.2020 PMBailey.pdf)
 
 Explored the effects of COVID-19 on the crime rate in Chicago, Illinois so far in 2020.  Chicago has been known for having a high crime rate especially murder rate.  In 2019, 492 individuals lost their lives and 567 were killed in 2018.  So, in 2020 was there a significant effect on crime in general due to the pandemic, social distancing, and state government mandates?"  
 
@@ -64,7 +64,7 @@ Explored the effects of COVID-19 on the crime rate in Chicago, Illinois so far i
 * Acquired data from [data.gov](https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=Illinois&data-type=CommunityLevels&list_select_county=17031) for the COVID cases in Chicago. Note: link to the original website is no longer active.  The web site above from the CDC provides similar information.
 * Acquired geospatial data from the [portal](https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Districts-current-/fthy-xz3r) as well.
 
-<img src="images/primaryTypeDIff.png" alt="Description" width="300" height="250"/>
+<img src="images/primaryTypeDIff.png" alt="Description" width="250" height="200"/>
 
 ---
 [Project 5 - Crime in Chicago and Being Arrested: Project Overview](https://github.com/pmb-7684/BAN-502-Predictive-Analytics/blob/master/Course%20Project%20Phase2.pdf)
@@ -93,7 +93,6 @@ The purpose of this repository is to create predictive models and automating R M
 
 
 
-[Project 2 Default of Credit Card Clients - Classification](/pdf/sample_presentation.pdf)
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
