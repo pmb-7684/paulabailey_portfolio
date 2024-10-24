@@ -42,10 +42,6 @@ Project focused on sixteen different universal conditions that could contribute 
 ---
 [Charlotte Mecklenburg Police Department - Shiny App]()
 
-ShinyApp is to analyze a portion of the Charlotte Mecklenburg Police Department (CMPD) crime data. The data is located at the City of Charlotte's [Open data portal](https://data.charlottenc.gov/).  The CMPD incidents are located [here](https://data.charlottenc.gov/datasets/cmpd-incidents-1/explore).  As of November 30, 2022, there were 542,153 observations with 25 variables (or features). 
-
-The app contains an About page, a Data Exploration page which allows the user to select features (columns) and filter the rows of the data. The results are used to create categorical charts and summaries. This data set does not contain any numerical variables. This tab is divided into three sub tabs named Instructions, Data Selection, Visualization and Summary, a Modeling page that creates three supervised models - generalized linear regression model, classification tree, and a random forest model. This tab is divided into three sub tabs named Model Info, Model Fitting, and Prediction, and finally a Data page that allows the user to scroll through the data set and subset it by rows and columns. The user also has the ability to save the subsetted data as a .csv file, pdf, or as a copy.
-
 • Packages needed for installation.
 ```
 install.packages(c("shiny", "shinydashboard", "shinythemes", "data.table", "tidyverse", "DT", "shinyWidgets", "caret", "randomForest", "rpart", "rattle", "rpart.plot", "RColorBrewer"))
@@ -53,7 +49,11 @@ install.packages(c("shiny", "shinydashboard", "shinythemes", "data.table", "tidy
 • The shiny::runGitHub() code to run app in RStudio.
 
 `shiny::runGitHub('shiny_CMPD', 'pmb-7684', ref = "main")`
-<img src="images/XCharlotte-Skyline.jpg" alt="Description" width="200" height="200"/>
+
+ShinyApp is to analyze a portion of the Charlotte Mecklenburg Police Department (CMPD) crime data. The data is located at the City of Charlotte's [Open data portal](https://data.charlottenc.gov/).  The CMPD incidents are located [here](https://data.charlottenc.gov/datasets/cmpd-incidents-1/explore).  As of November 30, 2022, there were 542,153 observations with 25 variables (or features). 
+
+The app contains an About page, a Data Exploration page which allows the user to select features (columns) and filter the rows of the data. The results are used to create categorical charts and summaries. This data set does not contain any numerical variables. This tab is divided into three sub tabs named Instructions, Data Selection, Visualization and Summary, a Modeling page that creates three supervised models - generalized linear regression model, classification tree, and a random forest model. This tab is divided into three sub tabs named Model Info, Model Fitting, and Prediction, and finally a Data page that allows the user to scroll through the data set and subset it by rows and columns. The user also has the ability to save the subsetted data as a .csv file, pdf, or as a copy.
+
 
 ---
 [Project 4 - COVID-19 Effects on Crime in Chicago (PDF)](/pdf/Chicago- Final Project 08.16.2020 PMBailey.pdf)
@@ -92,7 +92,7 @@ A project that used resting APIs at [Poké Api.](https://pokeapi.co/) The vignet
 
 The purpose of this repository is to create predictive models and automating R Markdown reports. Analysis are completed on the Online News Popularity Data Set from UCI. Additional information about this data can be accessed [here](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity).
 
-
+<img src="images/XCharlotte-Skyline.jpg" alt="Description" width="300" height="300"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
