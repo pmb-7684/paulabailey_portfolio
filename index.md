@@ -53,7 +53,7 @@ install.packages(c("shiny", "shinydashboard", "shinythemes", "data.table", "tidy
 • The shiny::runGitHub() code to run app in RStudio.
 
 `shiny::runGitHub('shiny_CMPD', 'pmb-7684', ref = "main")`
-<img src="images/XCharlotte-Skyline.jpg" alt="Description" width="300" height="250"/>
+<img src="images/XCharlotte-Skyline.jpg" alt="Description" width="200" height="200"/>
 
 ---
 [Project 4 - COVID-19 Effects on Crime in Chicago (PDF)](/pdf/Chicago- Final Project 08.16.2020 PMBailey.pdf)
@@ -68,7 +68,7 @@ Explored the effects of COVID-19 on the crime rate in Chicago, Illinois so far i
 <img src="images/primaryTypeDIff.png" alt="Description" width="250" height="200"/>
 
 ---
-[Project 5 - Crime in Chicago and Being Arrested: Project Overview](https://github.com/pmb-7684/BAN-502-Predictive-Analytics/blob/master/Course%20Project%20Phase2.pdf)
+[Project 5 - Crime in Chicago and Being Arrested: Project Overview](/pdf/Course Project Phase2.pdf)
 
 Used machine learning techniques to predict the likelihood that a person would be "Arrested". Data set comes from the City of Chicago’s Data Portal and contains information about crime in Chicago in 2018. Models were built to predict the likelihood that a person would be Arrested."  We reduced the size of the dataset by sampling 15,000 observations from the original dataset, which contained 267,000 observations.  
   
