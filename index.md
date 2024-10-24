@@ -16,7 +16,7 @@ Explored how crime has evolved over time in different communities and how does l
 
 Default of Credit Card Clients data set is available from UC Irvine Machine Learning Repository. It is based on research paper written by Che-hui Lien Yeh in 2009 which examined default patterns of Taiwanese customers. The research compared the predictive accuracy of six data mining techniques. For their initial research, neutral network more accurately estimated the real probability of default.
 
-For this classification project, used various classification models to predict if an individual would default on their next month's payment or not.  Default of Credit Card Clients data is located [here at UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients) 
+For this classification project, used various classification models to predict if an individual would default on their next month's payment or not.  Default of Credit Card Clients data is located [here ](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)at UC Irvine Machine Learning Repository. 
 <img src="images/default.png" alt="Description" width="300" height="200" />
 
 ---
@@ -29,7 +29,7 @@ A promising renewable energy resource is the use of wave farms to create energy.
 
 
 ---
-[The Right Conditions for COVID-19 2020](http://example.com/)
+[The Right Conditions for COVID-19 ](http://example.com/)
 
 Project focused on sixteen different universal conditions that could contribute to a person being infected with COVID-19.  The project completed in November 2020 as part of a capstone. World wide Coronavirus (COVID-19) data set which contained 50,350 observations and 41 variables. Used the programming language R to clean the data.
 
@@ -46,12 +46,12 @@ ShinyApp is to analyze a portion of the Charlotte Mecklenburg Police Department 
 The app contains an About page, a Data Exploration page which allows the user to select features (columns) and filter the rows of the data. The results are used to create categorical charts and summaries. This data set does not contain any numerical variables. This tab is divided into three sub tabs named Instructions, Data Selection, Visualization and Summary, a Modeling page that creates three supervised models - generalized linear regression model, classification tree, and a random forest model. This tab is divided into three sub tabs named Model Info, Model Fitting, and Prediction, and finally a Data page that allows the user to scroll through the data set and subset it by rows and columns. The user also has the ability to save the subsetted data as a .csv file, pdf, or as a copy.
 
 • Packages needed for installation.
-
-`install.packages(c("shiny", "shinydashboard", "shinythemes", "data.table", "tidyverse", "DT", "shinyWidgets", "caret", "randomForest", "rpart", "rattle", "rpart.plot", "RColorBrewer"))`
-
+```
+install.packages(c("shiny", "shinydashboard", "shinythemes", "data.table", "tidyverse", "DT", "shinyWidgets", "caret", "randomForest", "rpart", "rattle", "rpart.plot", "RColorBrewer"))
+```
 • The shiny::runGitHub() code to run app in RStudio.
 
-` shiny::runGitHub('shiny_CMPD', 'pmb-7684', ref = "main") `
+`shiny::runGitHub('shiny_CMPD', 'pmb-7684', ref = "main")`
 <img src="images/XCharlotte-Skyline.jpg" alt="Description" width="300" height="250"/>
 
 ---
