@@ -21,7 +21,7 @@ For this classification project, used various classification models to predict i
 <img src="images/default.png" alt="Description" width="250" height="200" />
 
 ---
-[Project 3 Wave Farm - Regression DRAFT](https://pmb-7684.github.io/Data_Mining_Regression_Project3/)
+[Project 3 Wave Farm - Regression](https://pmb-7684.github.io/Data_Mining_Regression_Project3/)
 
 Fossil fuel can be a double-edged sword offering both positive and negative opportunities.  It can offer wealth to countries to fuel their economies and gasoline (plus byproducts) to offer mobility and comfort in the form of electricity for their citizens.  On the other hand, fossil fuel can be devastating to the environment if it is extracted incorrectly, and it is not an infinite resource.
 A promising renewable energy resource is the use of wave farms to create energy.  The ocean covers 70% of the earth's surface.  It is also about 97% of all water on Earth.  The abundance of the oceans is a major reason to explore wave farming as an option for energy. The goal is to predict the total power output based on the coordination of the wave energy converters (WECs) within a large wave farm.  By demonstrating the benefits of wave energy maybe we can change a few minds to invest in wave energy.
