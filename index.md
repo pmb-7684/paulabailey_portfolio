@@ -1,4 +1,14 @@
 ## Portfolio
+### Group R and Python Projects
+---
+[Pokémon API ](https://pmb-7684.github.io/ST558_Project_2/)
+
+A project that used resting APIs at [Poké Api.](https://pokeapi.co/) The vignette helps users on how to request information on their favorite Pokémon by name or ID from a resting API.  The information includes basic stats, training information, and moves.  There is an additional option to request information about berries.  Completed exploratory analysis with visualizations using data extracted from the api.
+
+[Predictive Models for Online New Popularity Data Set](https://pmb-7684.github.io/ST558_Project_3/)
+
+The purpose of this repository is to create predictive models and automating R Markdown reports. Analysis are completed on the Online News Popularity Data Set from UCI. Additional information about this data can be accessed [here](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity).
+
 ### Individual Java, R, and Python Projects 
 ---
 
@@ -81,16 +91,7 @@ Used machine learning techniques to predict the likelihood that a person would b
 
 
 
-### Group R and Python Projects
----
-[Pokémon API ](https://pmb-7684.github.io/ST558_Project_2/)
 
-A project that used resting APIs at [Poké Api.](https://pokeapi.co/) The vignette helps users on how to request information on their favorite Pokémon by name or ID from a resting API.  The information includes basic stats, training information, and moves.  There is an additional option to request information about berries.  Completed exploratory analysis with visualizations using data extracted from the api.
-
----
-[Predictive Models for Online New Popularity Data Set](https://pmb-7684.github.io/ST558_Project_3/)
-
-The purpose of this repository is to create predictive models and automating R Markdown reports. Analysis are completed on the Online News Popularity Data Set from UCI. Additional information about this data can be accessed [here](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity).
 
 <img src="images/XCharlotte-Skyline.jpg" alt="Description" width="300" height="300"/>
 
