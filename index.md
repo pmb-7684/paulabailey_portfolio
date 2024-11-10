@@ -40,6 +40,10 @@ A promising renewable energy resource is the use of wave farms to create energy.
 
 
 ---
+[Project 4 Charlotte's Neighborhood Crime Over Time Through Cluster Analysis DRAFT](https://pmb-7684.github.io/Data_Mining_Project_4/)
+
+
+---
 [The Right Conditions for COVID-19 (PDF)](/pdf/BAN Week 6 - Final Report_pmbailey.pdf)
 
 Project focused on sixteen different universal conditions that could contribute to a person being infected with COVID-19.  The project completed in November 2020 as part of a capstone. World wide Coronavirus (COVID-19) data set which contained 50,350 observations and 41 variables. Used the programming language R to clean the data.
