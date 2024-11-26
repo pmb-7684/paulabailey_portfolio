@@ -9,6 +9,10 @@ A project that used resting APIs at [Poké Api.](https://pokeapi.co/) The vignet
 
 The purpose of this repository is to create predictive models and automating R Markdown reports. Analysis are completed on the Online News Popularity Data Set from UCI. Additional information about this data can be accessed [here](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity).
 
+[Project 5 Recommender System ]()
+Under construction - To be completed by December 12
+
+
 ### Individual Java, R, and Python Projects 
 ---
 
@@ -40,7 +44,9 @@ A promising renewable energy resource is the use of wave farms to create energy.
 
 
 ---
-[Project 4 Charlotte's Neighborhood Crime Over Time Through Cluster Analysis DRAFT](https://pmb-7684.github.io/Data_Mining_Project_4/)
+[Project 4 Charlotte's Neighborhood Crime Over Time Through Cluster Analysis ](https://pmb-7684.github.io/Data_Mining_Clustering_Project_4/)
+
+For this project, the data was explored through clustering analysis. Again, explored how crime has evolved over time in different communities. The difference is clustering was used to explore if certain neighborhood belongs to the same cluster. Acquired data from [CMPD Data Portal.](https://data.charlottenc.gov/datasets/charlotte::cmpd-incidents-1/about)
 
 
 ---
