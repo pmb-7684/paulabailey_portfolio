@@ -10,6 +10,7 @@ A project that used resting APIs at [Poké Api.](https://pokeapi.co/) The vignet
 The purpose of this repository is to create predictive models and automating R Markdown reports. Analysis are completed on the Online News Popularity Data Set from UCI. Additional information about this data can be accessed [here](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity).
 
 [Project 5 Recommender System ]()
+
 Under construction - To be completed by December 12
 
 
@@ -48,6 +49,10 @@ A promising renewable energy resource is the use of wave farms to create energy.
 
 For this project, the data was explored through clustering analysis. Again, explored how crime has evolved over time in different communities. The difference is clustering was used to explore if certain neighborhood belongs to the same cluster. Acquired data from [CMPD Data Portal.](https://data.charlottenc.gov/datasets/charlotte::cmpd-incidents-1/about)
 
+---
+[Project 6 Hit the road RV Park for Relational Database ]()
+
+Under construction - Create a relational Db for the fictional Hit the Road RV Park is situated on 50 acres in Western North Carolina.  The park contains recreational vehicle (RV) parking and a garage for maintenance.   
 
 ---
 [The Right Conditions for COVID-19 (PDF)](/pdf/BAN Week 6 - Final Report_pmbailey.pdf)
