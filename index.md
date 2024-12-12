@@ -9,9 +9,13 @@ A project that used resting APIs at [Poké Api.](https://pokeapi.co/) The vignet
 
 The purpose of this repository is to create predictive models and automating R Markdown reports. Analysis are completed on the Online News Popularity Data Set from UCI. Additional information about this data can be accessed [here](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity).
 
-[Project 5 Recommender System ]()
+[Auto Theft and Social Disorganization Theory](https://pmb-7684.github.io/Grp_Project_AutoTheft/)
 
-Under construction - To be completed by December 12
+Project for DTSC 3601/3602. The project focused on a problem involving the analysis of one or more data sets and the application of machine learning and data mining methods to better inform policing and crime prevention efforts and policies. Building models that can identify patterns in the community crime dataset to help organizations better understand community factors and crimes and give them an advantage when making decisions in their fight against crime, better policing and safer communities.  
+
+[Anime Recommender System](https://kaihansen8.github.io/3162FinalProject/)
+
+UNDER CONSTRUCTION The repo is [here.](https://github.com/kaihansen8/3162FinalProject/tree/main)
 
 
 ### Individual Java, R, and Python Projects 
