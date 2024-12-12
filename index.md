@@ -15,8 +15,8 @@ Project for DTSC 3601/3602. The project focused on a problem involving the analy
 
 [Anime Recommender System](https://kaihansen8.github.io/3162FinalProject/)
 
-UNDER CONSTRUCTION The repo is [here.](https://github.com/kaihansen8/3162FinalProject/tree/main)
-
+**UNDER CONSTRUCTION** In this project, we focused on building a content-based recommendation system. This system generates suggestions based on content that another user has previously enjoyed. By using cosine similarity, we can compare features and identify those that match a user’s interest and taste. The goal is to create a way for users to discover new anime. The repo is [here.](https://github.com/kaihansen8/3162FinalProject/tree/main)
+<br>
 
 ### Individual Java, R, and Python Projects 
 ---
