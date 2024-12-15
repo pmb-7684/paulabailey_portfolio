@@ -1,23 +1,4 @@
 ## Portfolio
-### Group R and Python Projects
----
-[Pokémon API ](https://pmb-7684.github.io/ST558_Project_2/)
-
-A project that used resting APIs at [Poké Api.](https://pokeapi.co/) The vignette helps users on how to request information on their favorite Pokémon by name or ID from a resting API.  The information includes basic stats, training information, and moves.  There is an additional option to request information about berries.  Completed exploratory analysis with visualizations using data extracted from the api.
-
-[Predictive Models for Online New Popularity Data Set](https://pmb-7684.github.io/ST558_Project_3/)
-
-The purpose of this repository is to create predictive models and automating R Markdown reports. Analysis are completed on the Online News Popularity Data Set from UCI. Additional information about this data can be accessed [here](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity).
-
-[Auto Theft and Social Disorganization Theory](https://pmb-7684.github.io/Grp_Project_AutoTheft/)
-
-Project for DTSC 3601/3602. The project focused on a problem involving the analysis of one or more data sets and the application of machine learning and data mining methods to better inform policing and crime prevention efforts and policies. Building models that can identify patterns in the community crime dataset to help organizations better understand community factors and crimes and give them an advantage when making decisions in their fight against crime, better policing and safer communities.  
-
-[Anime Recommender System](https://kaihansen8.github.io/3162FinalProject/)
-
-**UNDER CONSTRUCTION** In this project, we focused on building a content-based recommendation system. This system generates suggestions based on content that another user has previously enjoyed. By using cosine similarity, we can compare features and identify those that match a user’s interest and taste. The goal is to create a way for users to discover new anime. The repo is [here.](https://github.com/kaihansen8/3162FinalProject/tree/main)
-<br>
-
 ### Individual Java, R, and Python Projects 
 ---
 
@@ -107,10 +88,24 @@ Used machine learning techniques to predict the likelihood that a person would b
 <img src="images/logistic.png?raw=true"/>
 
 
+### Group R and Python Projects
+---
+[Pokémon API ](https://pmb-7684.github.io/ST558_Project_2/)
 
+A project that used resting APIs at [Poké Api.](https://pokeapi.co/) The vignette helps users on how to request information on their favorite Pokémon by name or ID from a resting API.  The information includes basic stats, training information, and moves.  There is an additional option to request information about berries.  Completed exploratory analysis with visualizations using data extracted from the api.
 
+[Predictive Models for Online New Popularity Data Set](https://pmb-7684.github.io/ST558_Project_3/)
 
+The purpose of this repository is to create predictive models and automating R Markdown reports. Analysis are completed on the Online News Popularity Data Set from UCI. Additional information about this data can be accessed [here](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity).
 
+[Auto Theft and Social Disorganization Theory](https://pmb-7684.github.io/Grp_Project_AutoTheft/)
+
+UNDER CONSTRUCTION. Project for DTSC 3601/3602. This project focused on a problem involving the analysis of one or more data sets and the application of machine learning and data mining methods to better inform policing and crime prevention efforts and policies. Building models that can identify patterns in the community crime dataset to help organizations better understand community factors and crimes and give them an advantage when making decisions in their fight against crime, better policing and safer communities.  Our group focused on the effects of social disorganization and auto theft.
+
+[Anime Recommender System](https://kaihansen8.github.io/3162FinalProject/)
+
+In this project, we focused on building a content-based recommendation system. This system generates suggestions based on content that another user has previously enjoyed. By using cosine similarity, we can compare features and identify those that match a user’s interest and taste. The goal is to create a way for users to discover new anime. The repo is [here.](https://github.com/kaihansen8/3162FinalProject/tree/main) including the final jupyter [notebook.](https://github.com/kaihansen8/3162FinalProject/blob/main/Final_Group_Project.ipynb)
+<br>
 
 <img src="images/XCharlotte-Skyline.jpg" alt="Description" width="300" height="300"/>
 
