@@ -39,7 +39,6 @@ For this project, the data was explored through clustering analysis. Again, expl
 
 Designed and implemented a relational database (Db) for the fictional *Hit the Road RV Park* which is situated on 50 acres in Western North Carolina.  The park contains RV parking and a garage for maintenance.   
 
-<img src="images/schema.png?raw=true" alt="Description" width="300" height="250"/>
 <img src="images/schema.png "/>
 ---
 [The Right Conditions for COVID-19 (PDF)](/pdf/BAN Week 6 - Final Report_pmbailey.pdf)
