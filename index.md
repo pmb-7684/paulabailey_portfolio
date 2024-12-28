@@ -35,7 +35,7 @@ A promising renewable energy resource is the use of wave farms to create energy.
 For this project, the data was explored through clustering analysis. Again, explored how crime has evolved over time in different communities. The difference is clustering was used to explore if certain neighborhood belongs to the same cluster. Acquired data from [CMPD Data Portal.](https://data.charlottenc.gov/datasets/charlotte::cmpd-incidents-1/about)
 
 ---
-[Project 6 Relational Database for fictional recreational vehicle (RV) park. ](https://pmb-7684.github.io/Database_Project_RV/)
+[Project 6 Relational Database for Fictional Recreational Vehicle (RV) Park. ](https://pmb-7684.github.io/Database_Project_RV/)
 
 Designed and implemented a relational database (Db) for the fictional *Hit the Road RV Park* which is situated on 50 acres in Western North Carolina.  The park contains RV parking and a garage for maintenance.   
 
