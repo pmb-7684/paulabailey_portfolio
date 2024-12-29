@@ -52,7 +52,7 @@ Project focused on sixteen different universal conditions that could contribute 
 <img src="images/StngencyIndex.png "/>
 
 ---
-[Charlotte Mecklenburg Police Department - Shiny App]()
+[Charlotte Mecklenburg Police Department - Shiny App](https://pmb-7684.github.io/shiny_CMPD/)
 
 • Packages needed for installation.
 ```
@@ -68,7 +68,7 @@ The app contains an About page, a Data Exploration page which allows the user to
 
 
 ---
-[Project 4 - COVID-19 Effects on Crime in Chicago (PDF)](/pdf/Chicago- Final Project 08.16.2020 PMBailey.pdf)
+[Project 4 - COVID-19 Effects on Crime in Chicago (PDF)]()
 
 Explored the effects of COVID-19 on the crime rate in Chicago, Illinois so far in 2020.  Chicago has been known for having a high crime rate especially murder rate.  In 2019, 492 individuals lost their lives and 567 were killed in 2018.  So, in 2020 was there a significant effect on crime in general due to the pandemic, social distancing, and state government mandates?"  
 
@@ -77,10 +77,12 @@ Explored the effects of COVID-19 on the crime rate in Chicago, Illinois so far i
 * Acquired data from [data.gov](https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=Illinois&data-type=CommunityLevels&list_select_county=17031) for the COVID cases in Chicago. Note: link to the original website is no longer active.  The web site above from the CDC provides similar information.
 * Acquired geospatial data from the [portal](https://data.cityofchicago.org/Public-Safety/Boundaries-Police-Districts-current-/fthy-xz3r) as well.
 
+The report on my findings is located [here.](/pdf/Chicago- Final Project 08.16.2020 PMBailey.pdf)
+
 <img src="images/primaryTypeDIff.png" alt="Description" width="250" height="200"/>
 
 ---
-[Project 5 - Crime in Chicago and Being Arrested: Project Overview](/pdf/Course Project Phase2.pdf)
+[Project 5 - Crime in Chicago and Being Arrested: Project Overview]()
 
 Used machine learning techniques to predict the likelihood that a person would be "Arrested". Data set comes from the City of Chicago’s Data Portal and contains information about crime in Chicago in 2018. Models were built to predict the likelihood that a person would be Arrested."  We reduced the size of the dataset by sampling 15,000 observations from the original dataset, which contained 267,000 observations.  
   
@@ -89,6 +91,8 @@ Used machine learning techniques to predict the likelihood that a person would b
 <img src="images/Classification.png?raw=true"/>
 <img src="images/logistic.png?raw=true"/>
 
+The presentation on my findings is located [here.](/pdf/Course Project Phase2.pdf)
+
 
 ### Group R and Python Projects
 ---
@@ -96,7 +100,7 @@ Used machine learning techniques to predict the likelihood that a person would b
 
 This project for DTSC 3601/3602 focused on a problem involving the analysis of one or more data sets and the application of machine learning and data mining methods to better inform policing and crime prevention efforts and policies. Building models that can identify patterns in the community crime dataset to help organizations better understand community factors and crimes and give them an advantage when making decisions in their fight against crime, better policing and safer communities.  Our group focused on the effects of social disorganization and auto theft.
 
-The report of our finding is located[here.](/pdf/AUTO THEFT CRIME ANALYSIS.pdf)
+The report of our finding is located[ here.](/pdf/AUTO THEFT CRIME ANALYSIS.pdf)
 
 ---
 [Anime Recommender System](https://kaihansen8.github.io/3162FinalProject/)
