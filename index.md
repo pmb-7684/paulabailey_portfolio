@@ -40,6 +40,7 @@ For this project, the data was explored through clustering analysis. Again, expl
 Designed and implemented a relational database (Db) for the fictional *Hit the Road RV Park* which is situated on 50 acres in Western North Carolina.  The park contains RV parking and a garage for maintenance.   
 
 <img src="images/schema.png "/>
+
 ---
 [The Right Conditions for COVID-19 (PDF)](/pdf/BAN Week 6 - Final Report_pmbailey.pdf)
 
@@ -95,14 +96,18 @@ Used machine learning techniques to predict the likelihood that a person would b
 
 A project that used resting APIs at [Poké Api.](https://pokeapi.co/) The vignette helps users on how to request information on their favorite Pokémon by name or ID from a resting API.  The information includes basic stats, training information, and moves.  There is an additional option to request information about berries.  Completed exploratory analysis with visualizations using data extracted from the api.
 
+---
 [Predictive Models for Online New Popularity Data Set](https://pmb-7684.github.io/ST558_Project_3/)
 
 The purpose of this repository is to create predictive models and automating R Markdown reports. Analysis are completed on the Online News Popularity Data Set from UCI. Additional information about this data can be accessed [here](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity).
 
+---
 [Auto Theft and Social Disorganization Theory](https://pmb-7684.github.io/Grp_Project_AutoTheft/)
 
 UNDER CONSTRUCTION. Project for DTSC 3601/3602. This project focused on a problem involving the analysis of one or more data sets and the application of machine learning and data mining methods to better inform policing and crime prevention efforts and policies. Building models that can identify patterns in the community crime dataset to help organizations better understand community factors and crimes and give them an advantage when making decisions in their fight against crime, better policing and safer communities.  Our group focused on the effects of social disorganization and auto theft.
 
+<a href="/pdf/AUTO THEFT CRIME ANALYSIS.pdf" class ="image fit"></a>
+---
 [Anime Recommender System](https://kaihansen8.github.io/3162FinalProject/)
 
 In this project, we focused on building a content-based recommendation system. This system generates suggestions based on content that another user has previously enjoyed. By using cosine similarity, we can compare features and identify those that match a user’s interest and taste. The goal is to create a way for users to discover new anime. The repo is [here.](https://github.com/kaihansen8/3162FinalProject/tree/main) including the final jupyter [notebook.](https://github.com/kaihansen8/3162FinalProject/blob/main/Final_Group_Project.ipynb)
