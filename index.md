@@ -2,7 +2,7 @@
 ### Individual Database, Java, R, and Python Projects 
 ---
 
-[Project 1 Charlotte's Neighborhood Crime Over Time - Data Exploration](https://pmb-7684.github.io/Data_Mining_Project_1/)
+[Charlotte's Neighborhood Crime Over Time - Data Exploration (Python)](https://pmb-7684.github.io/Data_Mining_Project_1/)
 
 Crime is a concern for many urban areas in the United States, and Charlotte is no exception. It is important to understand crime patterns and statistics to help communities and law enforcement agencies develop plans, allocate resources, and engage with the community to improve public safety. The Charlotte-Mecklenburg Police Department (CMPD) regularly publishes detailed crime reports. As of July 22, 2024, overall crime in Charlotte has seen a slight increase of 1% compared to the previous year. This includes various types of crimes, categorized broadly into violent crimes and property crimes.  Acquired data from [CMPD Data Portal.](https://data.charlottenc.gov/datasets/charlotte::cmpd-incidents-1/about)
 
@@ -12,7 +12,7 @@ Explored how crime has evolved over time in different communities and how does l
 
 
 ---
-[Project 2 Default of Credit Card Clients - Classification](https://pmb-7684.github.io/Data_Mining_Classification_Project2/)
+[Default of Credit Card Clients - Classification (Python)](https://pmb-7684.github.io/Data_Mining_Classification_Project2/)
 
 Default of Credit Card Clients data set is available from UC Irvine Machine Learning Repository. It is based on research paper written by Che-hui Lien Yeh in 2009 which examined default patterns of Taiwanese customers. The research compared the predictive accuracy of six data mining techniques. For their initial research, neutral network more accurately estimated the real probability of default.
 
@@ -21,7 +21,7 @@ For this classification project, used various classification models to predict i
 <img src="images/default.png" alt="Description" width="250" height="200" />
 
 ---
-[Project 3 Wave Farm - Regression](https://pmb-7684.github.io/Data_Mining_Regression_Project3/)
+[Wave Farm - Regression (Python)](https://pmb-7684.github.io/Data_Mining_Regression_Project3/)
 
 Fossil fuel can be a double-edged sword offering both positive and negative opportunities.  It can offer wealth to countries to fuel their economies and gasoline (plus byproducts) to offer mobility and comfort in the form of electricity for their citizens.  On the other hand, fossil fuel can be devastating to the environment if it is extracted incorrectly, and it is not an infinite resource.
 A promising renewable energy resource is the use of wave farms to create energy.  The ocean covers 70% of the earth's surface.  It is also about 97% of all water on Earth.  The abundance of the oceans is a major reason to explore wave farming as an option for energy. The goal is to predict the total power output based on the coordination of the wave energy converters (WECs) within a large wave farm.  By demonstrating the benefits of wave energy maybe we can change a few minds to invest in wave energy.
@@ -30,29 +30,19 @@ A promising renewable energy resource is the use of wave farms to create energy.
 
 
 ---
-[Project 4 Charlotte's Neighborhood Crime Over Time Through Cluster Analysis ](https://pmb-7684.github.io/Data_Mining_Clustering_Project_4/)
+[Charlotte's Neighborhood Crime Over Time Through Cluster Analysis (Python)](https://pmb-7684.github.io/Data_Mining_Clustering_Project_4/)
 
 For this project, the data was explored through clustering analysis. Again, explored how crime has evolved over time in different communities. The difference is clustering was used to explore if certain neighborhood belongs to the same cluster. Acquired data from [CMPD Data Portal.](https://data.charlottenc.gov/datasets/charlotte::cmpd-incidents-1/about)
 
 ---
-[Project 6 Relational Database for Fictional Recreational Vehicle (RV) Park. ](https://pmb-7684.github.io/Database_Project_RV/)
+[Relational Database for Fictional Recreational Vehicle (RV) Park. (MySQL)](https://pmb-7684.github.io/Database_Project_RV/)
 
 Designed and implemented a relational database (Db) for the fictional *Hit the Road RV Park* which is situated on 50 acres in Western North Carolina.  The park contains RV parking and a garage for maintenance.   
 
 <img src="images/schema.png "/>
 
 ---
-[The Right Conditions for COVID-19 (PDF)](/pdf/BAN Week 6 - Final Report_pmbailey.pdf)
-
-Project focused on sixteen different universal conditions that could contribute to a person being infected with COVID-19.  The project completed in November 2020 as part of a capstone. World wide Coronavirus (COVID-19) data set which contained 50,350 observations and 41 variables. Used the programming language R to clean the data.
-
-* Optimized linear, Lasso, Random Forest regressor, and other Machine learning techniques to determine the number of deaths from COVID-19 in 2020.
-* Used Tableau to visualize important points in the data.
-* Created a report addressing my question - why is a person infected with COVID-19? This question is based on if the following conditions contribute to being infected.  Those conditions were stringency index, population, population density, portion of the population over age 65, GDP per capita, extreme poverty, cardiovascular death rate, diabetes prevalence, smoker or not, number of hospitals, life expectancy and human development index. 
-<img src="images/StngencyIndex.png "/>
-
----
-[Charlotte Mecklenburg Police Department - Shiny App](https://pmb-7684.github.io/shiny_CMPD/)
+[Charlotte Mecklenburg Police Department - Shiny App (R)](https://pmb-7684.github.io/shiny_CMPD/)
 
 • Packages needed for installation.
 ```
@@ -66,9 +56,20 @@ ShinyApp is to analyze a portion of the Charlotte Mecklenburg Police Department 
 
 The app contains an About page, a Data Exploration page which allows the user to select features (columns) and filter the rows of the data. The results are used to create categorical charts and summaries. This data set does not contain any numerical variables. This tab is divided into three sub tabs named Instructions, Data Selection, Visualization and Summary, a Modeling page that creates three supervised models - generalized linear regression model, classification tree, and a random forest model. This tab is divided into three sub tabs named Model Info, Model Fitting, and Prediction, and finally a Data page that allows the user to scroll through the data set and subset it by rows and columns. The user also has the ability to save the subsetted data as a .csv file, pdf, or as a copy.
 
+---
+[The Right Conditions for COVID-19 (PDF)](/pdf/BAN Week 6 - Final Report_pmbailey.pdf)
+
+This capstone project focused on sixteen different universal conditions that could contribute to a person being infected with COVID-19.  The project completed in November 2020 as part of a capstone. World wide Coronavirus (COVID-19) data set which contained 50,350 observations and 41 variables. Used the programming language R to clean the data.
+
+* Optimized linear, Lasso, Random Forest regressor, and other Machine learning techniques to determine the number of deaths from COVID-19 in 2020.
+* Used Tableau to visualize important points in the data.
+* Created a report addressing my question - why is a person infected with COVID-19? This question is based on if the following conditions contribute to being infected.  Those conditions were stringency index, population, population density, portion of the population over age 65, GDP per capita, extreme poverty, cardiovascular death rate, diabetes prevalence, smoker or not, number of hospitals, life expectancy and human development index.
+<br>
+The report of my findings on COVID-19 is located [here.](/pdf/BAN Week 6 - Final Report_pmbailey.pdf)
+<img src="images/StngencyIndex.png "/>
 
 ---
-[Project 4 - COVID-19 Effects on Crime in Chicago (PDF)]()
+[The COVID-19 Effects on Crime in Chicago (R)](/pdf/Chicago- Final Project 08.16.2020 PMBailey.pdf)
 
 Explored the effects of COVID-19 on the crime rate in Chicago, Illinois so far in 2020.  Chicago has been known for having a high crime rate especially murder rate.  In 2019, 492 individuals lost their lives and 567 were killed in 2018.  So, in 2020 was there a significant effect on crime in general due to the pandemic, social distancing, and state government mandates?"  
 
@@ -82,7 +83,7 @@ The report on my findings is located [here.](/pdf/Chicago- Final Project 08.16.2
 <img src="images/primaryTypeDIff.png" alt="Description" width="250" height="200"/>
 
 ---
-[Project 5 - Crime in Chicago and Being Arrested: Project Overview]()
+[Crime in Chicago and Being Arrested: Project Overview (R)](/pdf/Course Project Phase2.pdf)
 
 Used machine learning techniques to predict the likelihood that a person would be "Arrested". Data set comes from the City of Chicago’s Data Portal and contains information about crime in Chicago in 2018. Models were built to predict the likelihood that a person would be Arrested."  We reduced the size of the dataset by sampling 15,000 observations from the original dataset, which contained 267,000 observations.  
   
@@ -96,32 +97,35 @@ The presentation on my findings is located [here.](/pdf/Course Project Phase2.pd
 
 ### Group R and Python Projects
 ---
-[Auto Theft and Social Disorganization Theory](https://pmb-7684.github.io/Grp_Project_AutoTheft/)
+[Auto Theft and Social Disorganization Theory (Python)](https://pmb-7684.github.io/Grp_Project_AutoTheft/)
 
-This project for DTSC 3601/3602 focused on a problem involving the analysis of one or more data sets and the application of machine learning and data mining methods to better inform policing and crime prevention efforts and policies. Building models that can identify patterns in the community crime dataset to help organizations better understand community factors and crimes and give them an advantage when making decisions in their fight against crime, better policing and safer communities.  Our group focused on the effects of social disorganization and auto theft.
+Data Science 3601/3602 project focused on a problem involving the analysis of one or more data sets and the application of machine learning and data mining methods to better inform policing and crime prevention efforts and policies. Building models that can identify patterns in the community crime dataset to help organizations better understand community factors and crimes and give them an advantage when making decisions in their fight against crime, better policing and safer communities.  Our group focused on the effects of social disorganization and auto theft.
 
-The report of our finding is located[ here.](/pdf/AUTO THEFT CRIME ANALYSIS.pdf)
+The report of our findings is located[ here.](/pdf/AUTO THEFT CRIME ANALYSIS.pdf) The findings reinforce the importance of social structures in crime prevention, showing that weakened community cohesion and economic instability  contribute to higher rates of auto theft. Policies that strengthen communities, reduce housing vacancy, and create economic opportunities can address the base causes of auto theft, rather than simply its symptoms. 
 
 ---
-[Anime Recommender System](https://kaihansen8.github.io/3162FinalProject/)
+[Anime Recommender System (Python)](https://kaihansen8.github.io/3162FinalProject/)
 
-In this project, we focused on building a content-based recommendation system. This system generates suggestions based on content that another user has previously enjoyed. By using cosine similarity, we can compare features and identify those that match a user’s interest and taste. The goal is to create a way for users to discover new anime. The repo is [here.](https://github.com/kaihansen8/3162FinalProject/tree/main) including the final jupyter [notebook.](https://github.com/kaihansen8/3162FinalProject/blob/main/Final_Group_Project.ipynb)
+In this project, we focused on building a content-based recommendation system. This system generates suggestions based on content that another user has previously enjoyed. By using cosine similarity, we can compare features and identify those that match a user’s interest and taste. The goal is to create a way for users to discover new anime. 
+<br>
+The git repo is located [here](https://github.com/kaihansen8/3162FinalProject/tree/main) with the final jupyter [notebook.](https://github.com/kaihansen8/3162FinalProject/blob/main/Final_Group_Project.ipynb)
 <br>
 
-<img src="images/XCharlotte-Skyline.jpg" alt="Description" width="300" height="300"/>
-
 ---
-[Pokémon API ](https://pmb-7684.github.io/ST558_Project_2/)
+[Pokémon API (R)](https://pmb-7684.github.io/ST558_Project_2/)
 
 A project that used resting APIs at [Poké Api.](https://pokeapi.co/) The vignette helps users on how to request information on their favorite Pokémon by name or ID from a resting API.  The information includes basic stats, training information, and moves.  There is an additional option to request information about berries.  Completed exploratory analysis with visualizations using data extracted from the api.
 
 ---
-[Predictive Models for Online New Popularity Data Set](https://pmb-7684.github.io/ST558_Project_3/)
+[Predictive Models for Online New Popularity Data Set (R)](https://pmb-7684.github.io/ST558_Project_3/)
 
-The purpose of this repository is to create predictive models and automating R Markdown reports. Analysis are completed on the Online News Popularity Data Set from UCI. Additional information about this data can be accessed [here]
-(https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity).
+The purpose of this repository is to create predictive models and automating R Markdown reports. Analysis are completed on the Online News Popularity Data Set from UCI. 
+<br>
+Additional information about this data can be accessed [here](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity).
 
 
+---
+<img src="images/XCharlotte-Skyline.jpg" alt="Description" width="300" height="300"/>
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
