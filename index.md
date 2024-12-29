@@ -35,7 +35,7 @@ A promising renewable energy resource is the use of wave farms to create energy.
 For this project, the data was explored through clustering analysis. Again, explored how crime has evolved over time in different communities. The difference is clustering was used to explore if certain neighborhood belongs to the same cluster. Acquired data from [CMPD Data Portal.](https://data.charlottenc.gov/datasets/charlotte::cmpd-incidents-1/about)
 
 ---
-[Relational Database for Fictional Recreational Vehicle (RV) Park. (MySQL)](https://pmb-7684.github.io/Database_Project_RV/)
+[Relational Database for Fictional Recreational Vehicle (RV) Park (MySQL)](https://pmb-7684.github.io/Database_Project_RV/)
 
 Designed and implemented a relational database (Db) for the fictional *Hit the Road RV Park* which is situated on 50 acres in Western North Carolina.  The park contains RV parking and a garage for maintenance.   
 
@@ -64,9 +64,9 @@ This capstone project focused on sixteen different universal conditions that cou
 * Optimized linear, Lasso, Random Forest regressor, and other Machine learning techniques to determine the number of deaths from COVID-19 in 2020.
 * Used Tableau to visualize important points in the data.
 * Created a report addressing my question - why is a person infected with COVID-19? This question is based on if the following conditions contribute to being infected.  Those conditions were stringency index, population, population density, portion of the population over age 65, GDP per capita, extreme poverty, cardiovascular death rate, diabetes prevalence, smoker or not, number of hospitals, life expectancy and human development index.
-<br>
+<br><br>
 The report of my findings on COVID-19 is located [here.](/pdf/BAN Week 6 - Final Report_pmbailey.pdf)
-<br>
+<br><br>
 <img src="images/StngencyIndex.png "/>
 
 ---
@@ -89,9 +89,9 @@ The report on my findings is located [here.](/pdf/Chicago- Final Project 08.16.2
 Used machine learning techniques to predict the likelihood that a person would be "Arrested". Data set comes from the City of Chicago’s Data Portal and contains information about crime in Chicago in 2018. Models were built to predict the likelihood that a person would be Arrested."  We reduced the size of the dataset by sampling 15,000 observations from the original dataset, which contained 267,000 observations.  
   
 * Optimized Classification tree, Logistic regression, Stacking, Random Forest, K-fold regression, and Regression with stepwise (Backwards and Forward). Three were discussed in this presentation: Classification, Logistic regression, and Stacking.
-<br>
+<br><br>
 The presentation on my findings is located [here.](/pdf/Course Project Phase2.pdf)
-<br>
+<br><br>
 <img src="images/Classification.png?raw=true"/>
 <img src="images/logistic.png?raw=true"/>
 
@@ -105,10 +105,9 @@ The presentation on my findings is located [here.](/pdf/Course Project Phase2.pd
 Data Science 3601/3602 project focused on a problem involving the analysis of one or more data sets and the application of machine learning and data mining methods to better inform policing and crime prevention efforts and policies. Building models that can identify patterns in the community crime dataset to help organizations better understand community factors and crimes and give them an advantage when making decisions in their fight against crime, better policing and safer communities.  Our group focused on the effects of social disorganization and auto theft.
 
 The report of our findings is located[ here.](/pdf/AUTO THEFT CRIME ANALYSIS.pdf) 
-<br>
+<br><br>
 The updated research presentation can be viewed [here](/pdf/AutoTheftAnalysis_update_pmb.pdf)
-<img src="pdf/AutoTheftAnalysis_update_pmb.pdf"/>
-<br>
+<br><br>
 The findings reinforce the importance of social structures in crime prevention, showing that weakened community cohesion and economic instability  contribute to higher rates of auto theft. Policies that strengthen communities, reduce housing vacancy, and create economic opportunities can address the base causes of auto theft, rather than simply its symptoms. 
 
 
@@ -116,7 +115,7 @@ The findings reinforce the importance of social structures in crime prevention, 
 [Anime Recommender System (Python)](https://kaihansen8.github.io/3162FinalProject/)
 
 In this project, we focused on building a content-based recommendation system. This system generates suggestions based on content that another user has previously enjoyed. By using cosine similarity, we can compare features and identify those that match a user’s interest and taste. The goal is to create a way for users to discover new anime. 
-<br>
+<br><br>
 The github repo is located [here](https://github.com/kaihansen8/3162FinalProject/tree/main) with the final jupyter [notebook available here.](https://github.com/kaihansen8/3162FinalProject/blob/main/Final_Group_Project.ipynb)
 <br>
 
@@ -129,7 +128,7 @@ A project that used resting APIs at [Poké Api.](https://pokeapi.co/) The vignet
 [Predictive Models for Online New Popularity Data Set (R)](https://pmb-7684.github.io/ST558_Project_3/)
 
 The purpose of this repository is to create predictive models and automating R Markdown reports. Analysis are completed on the Online News Popularity Data Set from UCI. 
-<br>
+<br><br>
 Additional information about this data can be accessed [here](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity).
 
 
