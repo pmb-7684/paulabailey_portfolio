@@ -104,7 +104,13 @@ The presentation on my findings is located [here.](/pdf/Course Project Phase2.pd
 
 Data Science 3601/3602 project focused on a problem involving the analysis of one or more data sets and the application of machine learning and data mining methods to better inform policing and crime prevention efforts and policies. Building models that can identify patterns in the community crime dataset to help organizations better understand community factors and crimes and give them an advantage when making decisions in their fight against crime, better policing and safer communities.  Our group focused on the effects of social disorganization and auto theft.
 
-The report of our findings is located[ here.](/pdf/AUTO THEFT CRIME ANALYSIS.pdf) The findings reinforce the importance of social structures in crime prevention, showing that weakened community cohesion and economic instability  contribute to higher rates of auto theft. Policies that strengthen communities, reduce housing vacancy, and create economic opportunities can address the base causes of auto theft, rather than simply its symptoms. 
+The report of our findings is located[ here.](/pdf/AUTO THEFT CRIME ANALYSIS.pdf) 
+<br>
+The updated research presentation can be viewed [here](/pdf/AutoTheftAnalysis_update_pmb.pdf)
+<img src="pdf/AutoTheftAnalysis_update_pmb.pdf"/>
+<br>
+The findings reinforce the importance of social structures in crime prevention, showing that weakened community cohesion and economic instability  contribute to higher rates of auto theft. Policies that strengthen communities, reduce housing vacancy, and create economic opportunities can address the base causes of auto theft, rather than simply its symptoms. 
+
 
 ---
 [Anime Recommender System (Python)](https://kaihansen8.github.io/3162FinalProject/)
