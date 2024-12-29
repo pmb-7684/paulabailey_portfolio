@@ -66,6 +66,7 @@ This capstone project focused on sixteen different universal conditions that cou
 * Created a report addressing my question - why is a person infected with COVID-19? This question is based on if the following conditions contribute to being infected.  Those conditions were stringency index, population, population density, portion of the population over age 65, GDP per capita, extreme poverty, cardiovascular death rate, diabetes prevalence, smoker or not, number of hospitals, life expectancy and human development index.
 <br>
 The report of my findings on COVID-19 is located [here.](/pdf/BAN Week 6 - Final Report_pmbailey.pdf)
+<br>
 <img src="images/StngencyIndex.png "/>
 
 ---
@@ -88,11 +89,13 @@ The report on my findings is located [here.](/pdf/Chicago- Final Project 08.16.2
 Used machine learning techniques to predict the likelihood that a person would be "Arrested". Data set comes from the City of Chicago’s Data Portal and contains information about crime in Chicago in 2018. Models were built to predict the likelihood that a person would be Arrested."  We reduced the size of the dataset by sampling 15,000 observations from the original dataset, which contained 267,000 observations.  
   
 * Optimized Classification tree, Logistic regression, Stacking, Random Forest, K-fold regression, and Regression with stepwise (Backwards and Forward). Three were discussed in this presentation: Classification, Logistic regression, and Stacking.
-
+<br>
+The presentation on my findings is located [here.](/pdf/Course Project Phase2.pdf)
+<br>
 <img src="images/Classification.png?raw=true"/>
 <img src="images/logistic.png?raw=true"/>
 
-The presentation on my findings is located [here.](/pdf/Course Project Phase2.pdf)
+---
 
 
 ### Group R and Python Projects
@@ -108,7 +111,7 @@ The report of our findings is located[ here.](/pdf/AUTO THEFT CRIME ANALYSIS.pdf
 
 In this project, we focused on building a content-based recommendation system. This system generates suggestions based on content that another user has previously enjoyed. By using cosine similarity, we can compare features and identify those that match a user’s interest and taste. The goal is to create a way for users to discover new anime. 
 <br>
-The git repo is located [here](https://github.com/kaihansen8/3162FinalProject/tree/main) with the final jupyter [notebook.](https://github.com/kaihansen8/3162FinalProject/blob/main/Final_Group_Project.ipynb)
+The github repo is located [here](https://github.com/kaihansen8/3162FinalProject/tree/main) with the final jupyter [notebook available here.](https://github.com/kaihansen8/3162FinalProject/blob/main/Final_Group_Project.ipynb)
 <br>
 
 ---
