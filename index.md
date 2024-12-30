@@ -1,4 +1,4 @@
-## Portfolio
+## Academic Portfolio
 ### Individual Database, Java, R, and Python Projects 
 ---
 
