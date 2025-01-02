@@ -2,7 +2,7 @@
 ---
 ### Individual Personal Python Projects
 ---
-[Walmart Streamlit App](https://simpleapp-lszmrlwqdxlcsuckbnwv37.streamlit.app/)
+[Walmart Streamlit App](https://simpleapp-lszmrlwqdxlcsuckbnwv37.streamlit.app/){:target="_blank"}
 
 My first deployed web app using Streamlit.  This is simple app uses `yfinance` to retrieve stock information on Walmart and display it as line graphes.  The app requests opening prices, closing prices, volume of stock exchanged and dividends paid.
 
@@ -10,7 +10,7 @@ My first deployed web app using Streamlit.  This is simple app uses `yfinance` t
 ### Individual Database, Java, R, and Python Projects 
 ---
 
-[Charlotte's Neighborhood Crime Over Time - Data Exploration (Python)](https://pmb-7684.github.io/Data_Mining_Project_1/)
+[Charlotte's Neighborhood Crime Over Time - Data Exploration (Python)](https://pmb-7684.github.io/Data_Mining_Project_1/){:target="_blank"}
 
 Crime is a concern for many urban areas in the United States, and Charlotte is no exception. It is important to understand crime patterns and statistics to help communities and law enforcement agencies develop plans, allocate resources, and engage with the community to improve public safety. The Charlotte-Mecklenburg Police Department (CMPD) regularly publishes detailed crime reports. As of July 22, 2024, overall crime in Charlotte has seen a slight increase of 1% compared to the previous year. This includes various types of crimes, categorized broadly into violent crimes and property crimes.  Acquired data from [CMPD Data Portal.](https://data.charlottenc.gov/datasets/charlotte::cmpd-incidents-1/about)
 
