@@ -96,7 +96,13 @@ The presentation on my findings is located [here.](/pdf/Course Project Phase2.pd
 <img src="images/logistic.png?raw=true"/>
 
 ---
+### Individual Personal R and Python Projects
+---
+[Walmart Streamlit App](https://simpleapp-lszmrlwqdxlcsuckbnwv37.streamlit.app/)
 
+My first deployed web app using Streamlit.  This is a simple app uses `yfinance` to retrieve stock information on Walmart and display it as line graphes.  The app requests opening prices, closing prices, volume of stock exchanged and dividends paid.
+
+---
 
 ### Group R and Python Projects
 ---
