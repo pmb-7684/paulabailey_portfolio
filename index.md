@@ -5,7 +5,7 @@ For all projects except for one,  I (or we in the case of group projects) had th
 ---
 [Walmart Streamlit App](https://simpleapp-lszmrlwqdxlcsuckbnwv37.streamlit.app/){:target="_blank"}
 
-My first deployed web app using Streamlit.  This is simple app uses `yfinance` to retrieve stock information on Walmart and display it as line graphes.  The app requests opening prices, closing prices, volume of stock exchanged and dividends paid for Walmart and creates simple visualizations of the results.
+My first deployed web app using Streamlit.  This is simple app uses `yfinance` to retrieve stock information on Walmart.  It requests opening prices, closing prices, volume of stock exchanged and dividends paid for Walmart and creates simple visualizations.
 
 ---
 
