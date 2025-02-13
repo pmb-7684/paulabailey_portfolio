@@ -1,13 +1,12 @@
 ## Academic & Individual Portfolio
----
-### Individual Personal Python Projects
+For all projects except for one,  I (or we in the case of group projects) had the ability to choose topics of interest. 
+
+### Individual Database, Java, R, and Python Projects 
 ---
 [Walmart Streamlit App](https://simpleapp-lszmrlwqdxlcsuckbnwv37.streamlit.app/){:target="_blank"}
 
-My first deployed web app using Streamlit.  This is simple app uses `yfinance` to retrieve stock information on Walmart and display it as line graphes.  The app requests opening prices, closing prices, volume of stock exchanged and dividends paid.
+My first deployed web app using Streamlit.  This is simple app uses `yfinance` to retrieve stock information on Walmart and display it as line graphes.  The app requests opening prices, closing prices, volume of stock exchanged and dividends paid for Walmart and creates simple visualizations of the results.
 
----
-### Individual Database, Java, R, and Python Projects 
 ---
 
 [Charlotte's Neighborhood Crime Over Time - Data Exploration (Python)](https://pmb-7684.github.io/Data_Mining_Project_1/){:target="_blank"}
