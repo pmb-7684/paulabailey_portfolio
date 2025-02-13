@@ -1,12 +1,12 @@
 title: Paula Bailey # your name (or website title) here
 logo: "/images/100_0061.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Highly self-motivated and goal-oriented professional who is passionate about harnessing the power of data to drive impactful decisions.  
+  Highly self-motivated and goal-oriented professional who is exciting about harnessing the power of data to drive impactful decisions.  
   <br><br>
   This portfolio contains academic and personal project around data science.  Recently, a simple Streamlit app was deployed. Within the coming weeks, several projects will be deployable.
   <br><br>
   <a href="https://www.linkedin.com/in/paulabailey21/">View My LinkedIn Profile</a> 
-  
+  <br><br>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
