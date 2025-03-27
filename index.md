@@ -1,13 +1,6 @@
 ## Academic & Individual Portfolio
-For all projects except for one,  I (or we in the case of group projects) had the ability to choose topics of interest. 
 
 ### Individual Database, Java, R, and Python Projects 
----
-[Walmart Streamlit App](https://simpleapp-lszmrlwqdxlcsuckbnwv37.streamlit.app/){:target="_blank"}
-
-My first deployed web app using Streamlit.  This is simple app uses `yfinance` to retrieve stock information on Walmart.  It requests opening prices, closing prices, volume of stock exchanged and dividends paid for Walmart and creates simple visualizations.
-
----
 
 [Charlotte's Neighborhood Crime Over Time - Data Exploration (Python)](https://pmb-7684.github.io/Data_Mining_Project_1/){:target="_blank"}
 
@@ -101,6 +94,11 @@ The presentation on my findings is located [here.](/pdf/Course Project Phase2.pd
 <br><br>
 <img src="images/Classification.png?raw=true"/>
 <img src="images/logistic.png?raw=true"/>
+
+---
+[Walmart Streamlit App](https://simpleapp-lszmrlwqdxlcsuckbnwv37.streamlit.app/){:target="_blank"}
+
+My first deployed web app using Streamlit.  This is simple app uses `yfinance` to retrieve stock information on Walmart.  It requests opening prices, closing prices, volume of stock exchanged and dividends paid for Walmart and creates simple visualizations.
 
 ---
 
