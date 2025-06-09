@@ -2,6 +2,22 @@
 
 ### Individual Database, Java, R, and Python Projects 
 
+Welcome to a new section of projects featuring Excel, Tableau, MySQL, Python, clustering, machine learning, advanced unsupervised techniques, app development, microblogging, and LLM integration. Now that I’ve graduated, I’m committed to creating content on a bi-weekly basis to build my portfolio and advance professionally.
+
+Starting now might seem counterintuitive but juggling full-time college while working third shift left little time for anything beyond studying, working, sleeping, and eating. After taking a short break to reflect on my projects, I’m ready to dive in—especially to showcase my proficiency in tools like Tableau and further refine my expertise.
+
+Please return often to discover fresh content, innovative projects, and evolving expertise. Stay tuned—a completely redesigned website is coming soon to enhance your experience even further! (6/9/25)
+
+---
+[Sales Performance Dashboard - Coffee Shop (Excel)]()
+
+[Sales Performance Dashboard - Transportation Company (Excel)]()
+
+
+
+---
+### Academic Individual Database, Java, R, and Python Projects 
+
 [Charlotte's Neighborhood Crime Over Time - Data Exploration (Python)](https://pmb-7684.github.io/Data_Mining_Project_1/){:target="_blank"}
 
 Crime is a concern for many urban areas in the United States, and Charlotte is no exception. It is important to understand crime patterns and statistics to help communities and law enforcement agencies develop plans, allocate resources, and engage with the community to improve public safety. The Charlotte-Mecklenburg Police Department (CMPD) regularly publishes detailed crime reports. As of July 22, 2024, overall crime in Charlotte has seen a slight increase of 1% compared to the previous year. This includes various types of crimes, categorized broadly into violent crimes and property crimes.  Acquired data from [CMPD Data Portal.](https://data.charlottenc.gov/datasets/charlotte::cmpd-incidents-1/about){:target="_blank"}
