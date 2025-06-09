@@ -10,10 +10,10 @@ Please return often to discover fresh content, innovative projects, and evolving
 
 ---
 [Sales Performance Dashboard - Coffee Shop (Excel)]()
-<img src="images/Coffee_Shop_Sales.png" alt="Description" width="400" height="250" />
+<img src="images/Coffee_Shop_Sales.png" alt="Description" width="450" height="250" />
 
 [Sales Performance Dashboard - Transportation Company (Excel)]()
-<img src="images/sales_pmb.png" alt="Description" width="400" height="250" />
+<img src="images/sales_pmb2.png" alt="Description" width="450" height="250" />
 
 
 ---
