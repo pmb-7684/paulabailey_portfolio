@@ -1,18 +1,19 @@
-## Academic & Individual Portfolio
+## Academic & Personal Portfolio
 
-### Individual Database, Java, R, and Python Projects 
+### Personal Database, Excel, Tableau, Java, R, and Python Projects 
 
 Welcome to a new section of projects featuring Excel, Tableau, MySQL, Python, clustering, machine learning, advanced unsupervised techniques, app development, microblogging, and LLM integration. Now that I’ve graduated, I’m committed to creating content on a bi-weekly basis to build my portfolio and advance professionally.
 
 Starting now might seem counterintuitive but juggling full-time college while working third shift left little time for anything beyond studying, working, sleeping, and eating. After taking a short break to reflect on my projects, I’m ready to dive in—especially to showcase my proficiency in tools like Tableau and further refine my expertise.
 
-Please return often to discover fresh content, innovative projects, and evolving expertise. Stay tuned—a completely redesigned website is coming soon to enhance your experience even further! (6/9/25)
+Please return often to discover fresh content, innovative projects, and evolving expertise. Stay tuned—a completely redesigned website is coming soon to enhance your experience even further! 
 
 ---
 [Sales Performance Dashboard - Coffee Shop (Excel)]()
+<img src="images/Coffee_Shop_Sales.png" alt="Description" width="300" height="250" />
 
 [Sales Performance Dashboard - Transportation Company (Excel)]()
-
+<img src="images/Sales_pmb.png" alt="Description" width="300" height="250" />
 
 
 ---
